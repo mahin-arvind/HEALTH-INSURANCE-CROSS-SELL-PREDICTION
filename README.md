@@ -45,15 +45,15 @@ a number of potential customers.
 
 Upon model deployment, tuning and evaluation, we found that the best performing model
 was the Gaussian Naive Bayes classifier trained on SMOTE sampled training set with an
-F2 score of 0.6349, a precision of 89.84 per cent and recall of 79.16 per cent. The finalized
+F2 score of 0.634614, precision of 27.58 per cent and recall of 94.02 per cent. The finalized
 model’s predictions were dependent on the customer’s previous insurance status and
 existing damages on the vehicle.
 
 When the dataset was explored earlier in the project, approximately, one in every ten
 clients had a positive cross-sale response when they were approached for cross-sale
 (12.25 % success rate). From the confusion matrix, we were able to tell that the model
-had correctly identified 94.26 per cent of the positive responses with a success rate of
-27.53 per cent in predicting positive responders. This means that, approximately, three out
+had correctly identified 94.04 per cent of the positive responses with a success rate of
+27.58 per cent in predicting positive responders. This means that, approximately, three out
 of every ten predicted buyers produced a positive response.
 
 Therefore, the model not only helped identify a large part of the potential vehicle insurance
