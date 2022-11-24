@@ -102,8 +102,8 @@ Balance Skewed Classes, Cost-Sensitive Learning”.
 The given IPython Notebook can be either downloaded to be run locally on Jupyter Notebook or on Google Colab via browser.
 
 ## 📜 Credits
-Project Done by Mahin Arvind Chanthira Sekaran
-Project Verified by Almabetter
+* Project Done by Mahin Arvind Chanthira Sekaran
+* Project Verified by Almabetter
 
 ## ☎ Contact
 
