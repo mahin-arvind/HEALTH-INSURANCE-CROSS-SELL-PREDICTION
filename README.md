@@ -86,11 +86,24 @@ Therefore, the model not only helped identify a large part of the potential vehi
 buyers but had also increased the success rate of cross-sales, helping the company save
 a significant amount of time and resources by generating better leads.
 
+## 📋 References
+
+1. Christopher M. Bishop, “Pattern Recognition and Machine Learning”, Pg.
+137-139
+2. Zhi-Hua Zhou, “Ensemble Methods Foundations and Algorithms”, Pg. 57-58
+3. John T. Hancock and Taghi M. Khoshgoftaar, “CatBoost for big data: An
+Interdisciplinary Review”
+4. Essam Al Daoud, “Comparison between XGBoost, LightGBM and CatBoost
+Using a Home Credit Dataset”.
+5. Jason Brownlee,“Imbalanced Classification with Python: Better Metrics,
+Balance Skewed Classes, Cost-Sensitive Learning”.
+
 ## 📋 Execution Instruction
 The given IPython Notebook can be either downloaded to be run locally on Jupyter Notebook or on Google Colab via browser.
 
 ## 📜 Credits
-Verified by Almabetter
+Project Done by Mahin Arvind Chanthira Sekaran
+Project Verified by Almabetter
 
 ## ☎ Contact
 
